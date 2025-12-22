@@ -27,3 +27,5 @@ scikit-learn
 
 # PyTorch (required for local HuggingFace models)
 torch
+
+streamlit
